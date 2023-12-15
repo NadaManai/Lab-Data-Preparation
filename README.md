@@ -13,5 +13,5 @@ Data preparation is a crucial step in every data-driven project. In this lab, we
    - Address outliers and apply necessary fixes.
    - Transform categorical features if required.
    - Enhance distribution properties of numerical features.
-   - Apply feature engineering techniques if necessary.
+   - Apply feature engineering techniques.
 
